@@ -1,4 +1,4 @@
-# Python Project – RFM & Pareto Analysis
+# Python Project – Customer Segmentation using RFM & Pareto Analysis
 
 ## Overview
 
