@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project performs **Customer Segmentation using RFM Analysis** and **Pareto Analysis** on customer transaction data using Python.
+This project performs **Customer Segmentation using RFM Analysis** and **Pareto Analysis** on customer transaction data and customer demographics data using Python.
 
 The project focuses on:
 
