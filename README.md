@@ -93,9 +93,9 @@ Calculated:
 * Labeled customer groups such as:
 
   * Champions
-  * Loyal Customers
-  * Potential Loyalists
-  * At Risk
+  * Big Spenders
+  * Frequent
+  * Recent
   * Lost Customers
 
 ### 6. Data Visualization
